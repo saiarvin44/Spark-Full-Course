@@ -1,2 +1,5 @@
 # Spark Using Scala Tutorial
-Includes Spark Streaming as well
+
+- Spark Streaming
+- Spark Jobs using RDD, Datasets and Dataframe
+- Machine Learning using Spark
